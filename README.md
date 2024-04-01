@@ -1,4 +1,4 @@
-# sped-da
+# SPED-DA
 
 Classes para geração dos documentos auxiliares usados pelos padrões SPED
 
