@@ -1,6 +1,6 @@
 # sped-da
 
-Classes para geração dos documentos auxiliares usados pelos padrões Sped
+Classes para geração dos documentos auxiliares usados pelos padrões SPED
 
 > NOTA: Este repositório contêm as classes "LEGADAS", para criação dos PDF's do projeto original NFePHP.
 > Porém essas classes foram ajustadas e alguns recursos estarão ausentes ou pelo menos diferentes das suas contrapartes originais.
