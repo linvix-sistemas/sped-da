@@ -1,5 +1,5 @@
 {
-    "name": "nfephp-org/sped-da",
+    "name": "linvix-sistemas/sped-da",
     "type": "library",
     "description": "sped-da contêm as classes para criação dos documentos auxiliares referidos no projeto Sped.",
     "keywords": [
@@ -10,7 +10,7 @@
         "Dacte",
         "CCe"
     ],
-    "homepage": "https://github.com/nfephp-org/sped-da",
+    "homepage": "https://github.com/linvix-sistemas/sped-da",
     "license": [
         "LGPL-3.0-or-later+",
         "GPL-3.0-or-later",
@@ -25,7 +25,7 @@
         },
         {
             "name": "Comunidade NFePHP",
-            "homepage": "https://github.com/nfephp-org/sped-da/graphs/contributors"
+            "homepage": "https://github.com/linvix-sistemas/sped-da/graphs/contributors"
         }
     ],
     "require": {
@@ -33,7 +33,7 @@
         "ext-dom": "*",
         "ext-gd": "*",
         "tecnickcom/tc-lib-barcode": "^1",
-        "nfephp-org/sped-common": "^5.1.0"
+        "linvix-sistemas/sped-common": "^5.1.0"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "^3.6",
